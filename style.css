@@ -1,0 +1,10 @@
+*,
+::after,
+::before {
+    font-family: 'Helvetica Neue', 'Roboto', 'Verdana', 'Tahoma', sans-serif;
+}
+
+
+img{
+   width:100%;
+}
